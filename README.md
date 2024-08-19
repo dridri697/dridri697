@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## olá, seja Bem-Vindo
+## meu nome é Adrielle
 <!--
 **dridri697/dridri697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
